@@ -14,7 +14,7 @@ The **Domestic Violence Case Analysis** wants to analyze patterns in crime categ
 
 - How do case outcomes differ based on domestic violence status?
 
-- Dashboard Interactive <a href="[Domestic Violence.png](https://github.com/AndreaAnalytics/Domestic-Violence-Case-Dashboard/blob/main/Domestic%20Violence.png)">View Dashboard</a>
+- Dashboard Interactive <a href="District_Attorney_Cases_Prosecuted.csv">View Dashboard</a>
 
 ## Process
 
