@@ -3,7 +3,7 @@ The **Domestic Violence Case Analysis** wants to analyze patterns in crime categ
 
 ## Dataset used
 
-<a href="https://github.com/AndreaAnalytics/Domestic-Violence-Case-Data-Analysis/blob/main/District_Attorney_Cases_Prosecuted.csv">San Francisco District Attorney Cases<a/>
+<a href="https://github.com/AndreaAnalytics/Domestic-Violence-Case-Dashboard/blob/main/District_Attorney_Cases_Prosecuted.csv">San Francisco District Attorney Cases<a/>
 
 
 ## Questions (KPIs)
@@ -14,7 +14,7 @@ The **Domestic Violence Case Analysis** wants to analyze patterns in crime categ
 
 - How do case outcomes differ based on domestic violence status?
 
-- Dashboard Interactive <a href="District_Attorney_Cases_Prosecuted.csv">View Dashboard</a>
+- Dashboard Interactive <a href="[District_Attorney_Cases_Prosecuted.csv](https://github.com/AndreaAnalytics/Domestic-Violence-Case-Dashboard/blob/main/Domestic%20Violence.png)">View Dashboard</a>
 
 ## Process
 
