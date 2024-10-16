@@ -1,5 +1,5 @@
 # Domestic-Violence-Case-Data-Analysis
-The **Domestic Violence Case Analysis** wants to analyze patterns in crime categories, particularly focusing on domestic violence cases.
+The **Domestic Violence Case Analysis** is an Excel-based tool designed to provide insights into the relationship between crime types, domestic violence, and the differences in case outcomes.
 
 ## Dataset used
 
