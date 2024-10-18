@@ -52,6 +52,6 @@ The **Domestic Violence Case Analysis** is an Excel-based tool designed to provi
 ## How to Use
 - Download the Excel file and input case data.
 
-- Use the filters to view specific case details or officer performance.
+- Use the filters to view specific case details.
 
-- Analyze caseload trends and case status using the pre-built pivot tables and charts.
+- Analyze caseload trends and case outcomes using the pre-built pivot tables and charts.
